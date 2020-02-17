@@ -23,7 +23,7 @@ pinax-theme-bootstrap==5.7.3
 pyasn1==0.1.7
 pycparser==2.12
 pymongo==2.8
-pyOpenSSL==0.15.1
+pyOpenSSL==17.5.0
 pytz==2015.4
 qiniu==7.0.4
 queuelib==1.2.2
