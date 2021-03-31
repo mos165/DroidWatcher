@@ -15,7 +15,7 @@ gnureadline==6.3.3
 greenlet==0.4.6
 gunicorn==19.3.0
 ipython==3.1.0
-lxml==3.4.4
+lxml==4.6.3
 mod-wsgi==4.4.11
 mongoengine==0.9.0
 numpy==1.9.2
