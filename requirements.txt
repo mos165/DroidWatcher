@@ -30,7 +30,7 @@ queuelib==1.2.2
 requests==2.7.0
 scikit-learn==0.16.1
 scipy==0.15.1
-Scrapy==0.24.6
+Scrapy==1.8.1
 six==1.9.0
 sphinx-me==0.3
 Twisted==15.1.0
